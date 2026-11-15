@@ -1,0 +1,3 @@
+size 20 in inkscape
+50 - 250 height for glyphs
+~125 - 200 height for centered glyphs
